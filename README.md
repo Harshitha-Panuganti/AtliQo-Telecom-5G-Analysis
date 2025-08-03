@@ -15,6 +15,7 @@ To help the management identify reasons and opportunities, I built an interactiv
 🔹 Market Share Comparison Across Competitors
 
 live dashboard: https://lnkd.in/gPWC8dXs
+
 𝐊𝐞𝐲 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐝:
 
 ➡️ ARPU increased by ~11%, but active users declined slightly.
